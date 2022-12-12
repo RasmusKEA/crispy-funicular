@@ -1,0 +1,2 @@
+For mongoDB it is not necessary to set up your own MongoDB-environment. You can simply use the following connection string:
+mongodb+srv://username:Password@cluster0.ficlyk4.mongodb.net/?retryWrites=true&w=majority
